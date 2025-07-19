@@ -1,0 +1,13 @@
+{
+  "name": "content-master-form",
+  "version": "1.0.0",
+  "description": "Interview session form with n8n webhook integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["form", "interview", "n8n", "webhook"],
+  "author": "Your Name",
+  "license": "MIT"
+}
